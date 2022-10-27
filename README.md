@@ -47,5 +47,4 @@ Os usuários devem ser capazes de:
 
 ## Autor
 
-- GitHub - [Michell Melo](https://github.com/MichellMelo)
-- Linkendin - [Michell Melo](www.linkedin.com/in/michell-melo-23a6301a8)
+- Linkendin - [Michell Melo](https://www.linkedin.com/in/michell-melo-23a6301a8)
